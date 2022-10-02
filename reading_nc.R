@@ -5,7 +5,7 @@ library(ncdf4)
 library(fields)
 
 # Reading the file
-dat <- nc_open('C:\\Users\\xyz\\PODAAC1950-2009\\CCAR_recon_sea_level_19500103_19591227_v1.nc')
+dat <- nc_open('C:\\Users\\XYZ\\CCAR_recon_sea_level_19500103_19591227_v1.nc')
 # Opening and Exploring the file 
 dat
 

@@ -1,7 +1,7 @@
 # reading-nc-file-in-R
-Reading NetCDF (Network Common Data Form) in R Studio 
+Reading NetCDF in R Studio 
 
-How to read and play with NetCDF file in R studio? 
+This short tutorial aims to depict how to read and play with NetCDF file in R studio. 
 
 Data Source: https://podaac.jpl.nasa.gov/
 
